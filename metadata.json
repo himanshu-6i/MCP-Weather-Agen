@@ -1,0 +1,5 @@
+{
+  "name": "MCP Weather Agent",
+  "description": "An AI agent that uses Function Calling (MCP-style) to fetch real-time weather data and provide contextual responses.",
+  "requestFramePermissions": ["geolocation"]
+}
